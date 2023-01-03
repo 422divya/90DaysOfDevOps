@@ -24,3 +24,6 @@ We can manage infrastructure using code that can automate the configuration of i
 
 It helps to provisioning the server, monitor and configure it with less manual efforts.
 
+Why DevOps is Important, etc
+
+==> By following devops practices application can be build and delivered faster. Also most of the daily tasks can be automated with automation tools and that time can be invested on making the application and infrastructure more secure and configuring it.
